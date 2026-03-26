@@ -12,3 +12,4 @@ C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityCha
 C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.pdb
 C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.genruntimeconfig.cache
 C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\ref\CybersecurityChatBot.dll
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.sourcelink.json

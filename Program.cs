@@ -1,10 +1,17 @@
-﻿namespace CybersecurityChatBot
+﻿using CybersecurityChatBot;
+using System;
+
+namespace CyberSecurityChatbot
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cybersecurity Awareness Chatbot starting");
+            VisualDisplay.ShowLogo();
+
+            string userName = UserInteraction.GetUserName();
+
+            ChatBot.StartChat(userName);
         }
     }
 }
