@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\bin\Debug\net10.0\CybersecurityChatBot.exe
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\bin\Debug\net10.0\CybersecurityChatBot.deps.json
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\bin\Debug\net10.0\CybersecurityChatBot.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\bin\Debug\net10.0\CybersecurityChatBot.dll
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\bin\Debug\net10.0\CybersecurityChatBot.pdb
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.dll
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\refint\CybersecurityChatBot.dll
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.pdb
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\CybersecurityChatBot.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\CybersecurityChatBot\CybersecurityChatBot\obj\Debug\net10.0\ref\CybersecurityChatBot.dll
