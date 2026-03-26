@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FMfW/Pxdn+I=",
+  "dgSpecHash": "QwomIsFPnH0=",
   "success": true,
   "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\CybersecurityChatBot\\CybersecurityChatBot\\CybersecurityChatBot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\figgle\\0.6.6\\figgle.0.6.6.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\figgle.fonts\\0.6.6\\figgle.fonts.0.6.6.nupkg.sha512"
+  ],
   "logs": []
 }
