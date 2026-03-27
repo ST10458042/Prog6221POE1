@@ -1,4 +1,4 @@
-﻿using CybersecurityChatBot;
+﻿
 using System;
 
 namespace CyberSecurityChatbot
@@ -11,7 +11,7 @@ namespace CyberSecurityChatbot
 
             string userName = UserInteraction.GetUserName();
 
-            ChatBot.StartChat(userName);
+            Chatbot.StartChat(userName);
         }
     }
 }
