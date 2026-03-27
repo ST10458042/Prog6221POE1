@@ -188,10 +188,12 @@ namespace CyberSecurityChatbot
 
                 if (!found)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Bot: I'm not sure I understand. Try asking about cybersecurity topics.");
+                    Console.ResetColor();
                 }
 
-                Console.WriteLine("----------------------------------------");
+                Console.WriteLine();
             }
         }
     }

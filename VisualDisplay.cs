@@ -1,6 +1,6 @@
-﻿using System;
-using Figgle;
+﻿using Figgle;
 using Figgle.Fonts;
+using System;
 
 namespace CyberSecurityChatbot
 {
@@ -8,23 +8,37 @@ namespace CyberSecurityChatbot
     {
         public static void ShowLogo()
         {
-            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
 
-            string title = "CYBERSECURITY";
-            string title2 = "AWARENESS";
-            string title3 = "BOT";
+            // Figgle ASCII art title
+            Console.WriteLine(FiggleFonts.Standard.Render("Cybersecurity"));
+            Console.WriteLine(FiggleFonts.Standard.Render("Awareness Bot "));
 
-            Console.WriteLine();
-            Console.WriteLine(FiggleFonts.Standard.Render(title));
-            Console.WriteLine(FiggleFonts.Standard.Render(title2));
-            Console.WriteLine(FiggleFonts.Standard.Render(title3));
+            Console.WriteLine(@"
+        ______________________
+       |                      |
+       |      WELCOME TO      |
+       |      CYBERSECURITY   |
+       |          BOT         |
+       |______________________|
+              ||
+              ||
+         .-""""""-.
+        /          \
+       |  O      O  |
+       |   ----     | 
+       |   \____/   |
+        \__________/
+          /|    |\
+         / |    | \
+           |    |
+          /      \
+         /_/\/\_\
+
+     
+");
 
             Console.ResetColor();
-
-            Console.WriteLine("===============================================");
-            Console.WriteLine(" Welcome to the Cybersecurity Awareness Chatbot");
-            Console.WriteLine("===============================================");
-            Console.WriteLine();
         }
     }
 }
