@@ -16,6 +16,9 @@ namespace CyberSecurityChatbot
             string userName = UserInteraction.GetUserName();
             //
             Chatbot.StartChat(userName);
+
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
         }
     }
 }
