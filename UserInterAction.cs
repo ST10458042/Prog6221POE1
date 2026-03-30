@@ -13,7 +13,7 @@ namespace CyberSecurityChatbot
 
                 string name = (Console.ReadLine() ?? "").Trim();
 
-                if (!string.IsNullOrWhiteSpace(name) && name.All(char.IsLetter))
+                if (!string.IsNullOrWhiteSpace(name) && name.All(char.IsLetter)) // String validation using C# methods (GeeksforGeeks, 2024)
                 {
                     Console.WriteLine();
                     Console.WriteLine("Hello " + name + "! Welcome to the Cybersecurity Awareness Chatbot.");

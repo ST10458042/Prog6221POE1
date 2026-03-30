@@ -8,7 +8,7 @@ namespace CyberSecurityChatbot
         {
 
             //firstly display logo from the VisualDisplay Class, accessible due to static key word.
-            VisualDisplay.ShowLogo();
+            VisualDisplay.ShowLogo(); //
 
             // Play audio from the voice class, accessible globally due to static key word
             voice.VocalPlayer();

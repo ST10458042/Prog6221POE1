@@ -172,7 +172,7 @@ namespace CyberSecurityChatbot
 
                 for (int i = 0; i < responses.Length; i++)
                 {
-                    if (userInput.Contains(responses[i].keyword))
+                    if (userInput.Contains(responses[i].keyword)) // String search using Contains() method (W3Schools, 2024)
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
 

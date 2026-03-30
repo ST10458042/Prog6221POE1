@@ -13,8 +13,8 @@ namespace CyberSecurityChatbot
         {
             try
             {
-
-                using (SoundPlayer player = new SoundPlayer("Helo.WAV"))
+                // Audio playback using SoundPlayer class (Microsoft, 2024)
+                using (SoundPlayer player = new SoundPlayer("Helo.WAV")) // Voice file generated using AI voice tool (Musley AI, 2025)
                 {
                     player.PlaySync();
                 }

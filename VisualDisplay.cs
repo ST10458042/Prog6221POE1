@@ -11,9 +11,10 @@ namespace CyberSecurityChatbot
             Console.ForegroundColor = ConsoleColor.DarkYellow;
 
             // Figgle ASCII art title
-            Console.WriteLine(FiggleFonts.Standard.Render("Cybersecurity"));
-            Console.WriteLine(FiggleFonts.Standard.Render("Awareness Bot "));
+            Console.WriteLine(FiggleFonts.Small.Render("Cybersecurity"));
+            Console.WriteLine(FiggleFonts.Small.Render("Awareness Bot ")); // ASCII text rendering using Figgle library (Figgle, 2023)
 
+            // ASCII art generated using Patorjk tool (Patorjk, 2025)
             Console.WriteLine(@"
         ______________________
        |                      |
