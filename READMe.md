@@ -41,8 +41,21 @@ Below is proof that the CI workflow runs successfully:
 
 Reference list :
 
-## 📚 References
+Figgle (2023) *Figgle ASCII Text Generator Library*. Available at: https://www.nuget.org/packages/Figgle/ (Accessed: 29 March 2026).
 
+GeeksforGeeks (2024) *C# String Methods and Validation*. Available at: https://www.geeksforgeeks.org/ (Accessed: 29 March 2026).
+
+Microsoft (2024) *Console Class in C#*. Available at: https://learn.microsoft.com/ (Accessed: 29 March 2026).
+
+Microsoft (2024) *SoundPlayer Class*. Available at: https://learn.microsoft.com/ (Accessed: 29 March 2026).
+
+Musley AI (2025) *AI Voice Generator for WAV Audio Files*. Available at: https://www.musley.ai/ (Accessed: 29 March 2026).
+
+Patorjk (2025) *Text to ASCII Art Generator*. Available at: https://patorjk.com/software/taag/ (Accessed: 29 March 2026).
+
+W3Schools (2024) *C# Tutorial and String Handling*. Available at: https://www.w3schools.com/cs/ (Accessed: 29 March 2026).
+
+Can i please the intext references and where each should go 
 
 
 
