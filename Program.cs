@@ -17,6 +17,8 @@ namespace CyberSecurityChatbot
             //
             Chatbot.StartChat(userName);
 
+
+            //This pauses the program before it closes,to prevent the console from closing automatically
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
